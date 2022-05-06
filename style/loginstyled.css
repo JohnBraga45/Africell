@@ -1,0 +1,119 @@
+@media(min-width: 360px) and (max-width: 414px) {
+    .african {
+        width: 135px !important;
+        left: 206px !important;
+        top: -64px !important;
+    }
+
+    .Africell-login {
+        width: 219px;
+        top: 77px !important;
+        left: -1px !important;
+    }
+
+}
+
+@media(min-width: 576px) {
+    .Africell-login {
+        left: -4px !important;
+        top: 218px !important;
+        width: 306px;
+    }
+
+    .african {
+        left: 259px !important;
+        top: -22px !important;
+        width: 289px;
+    }
+
+
+}
+
+@media(min-width: 768px) {
+    .african {
+        left: 227px !important;
+        top: -29px !important;
+    }
+
+    .Africell-login {
+        top: 85px !important;
+        left: 62px !important;
+    }
+
+}
+
+@media(min-width: 992px) {
+
+    .Africell-login {
+        top: 40px !important;
+        left: 95px !important;
+    }
+
+    .african {
+        left: 68px !important;
+        top: 5px !important;
+    }
+
+
+}
+
+@media(min-width: 1200px) {
+
+    .Africell-login {
+        top: 40px !important;
+        left: 121px !important;
+        width: 271px;
+        margin-bottom: 13px !important;
+    }
+
+    .african {
+        left: 75px;
+        margin-top: 7px;
+        width: 169px !important;
+        left: 106px !important;
+    }
+}
+
+.fundo {
+    background-color: #a72e7e;
+}
+
+.icon {
+    width: 100px;
+}
+
+.login-form-1 {
+    margin-top: 180px;
+}
+
+.login-form-2 {
+    background-color: white;
+    margin-top: 129px;
+}
+
+.letra {
+    color: white !important;
+}
+
+.cards {
+    padding: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+.cards img {
+    width: 300px;
+}
+
+.login-form-22 {
+    background-color: white;
+    margin-top: 14px;
+}
+
+.login-form-11 {
+    margin-top: 14px;
+}
+
+.mobile {
+    width: 470px;
+}
