@@ -127,8 +127,8 @@
     }
 
     .mobile {
-    width: 225px;
-    height: 213px;
+    width: 225px !important;
+    height: 213px !important;
     right: !important;
 }
 
