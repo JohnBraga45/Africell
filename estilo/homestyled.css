@@ -127,9 +127,10 @@
     }
 
     .mobile {
-        width: 291px;
-        margin-right: 0px;
-    }
+    width: 225px;
+    height: 213px;
+    right: !important;
+}
 
     .elemento {
         margin-top: -92px;
